@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  ![logo_6 1 1](https://user-images.githubusercontent.com/23043860/215877297-d962bafb-cef5-42c7-9c5f-afda8135a3ae.png)
+ <img align="center" src="https://user-images.githubusercontent.com/23043860/215877297-d962bafb-cef5-42c7-9c5f-afda8135a3ae.png" />
   <h3 align="center">Hi there 👋.</h3>
 </p>
 
