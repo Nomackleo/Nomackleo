@@ -1,10 +1,22 @@
 <p align="center" width="300">
  <img align="center" src="https://user-images.githubusercontent.com/23043860/215883059-c28a4f73-6ea9-49d6-9936-dd67255f6c66.png" />
-  <h1 align="center">Hi 👋, I'm Leonel Salcedo</h1>
-  <h3 align="center">I am <strong>web developer and 3d artist</strong> from Colombia.</h3>
 </p>
 
+ <h1 align="center">Hi 👋, I'm Leonel Salcedo</h1>
+ <h3 align="center">I am <strong>web developer and 3d artist</strong> from Colombia.</h3>
 
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">
+   <a href="https://youtube.com/nomackleo" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nomack3d" height="28px" width="28px" />
+  </a>
+  <a href="https://instagram.com/nomack_3d" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nomack3d" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/Nomackleo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nomack3d" height="28px" width="28px" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Ciudad Autómata**
 
