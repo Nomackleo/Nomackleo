@@ -37,14 +37,16 @@
 ## 📫 How to reach me 
  - nomackleo@gmail.com
 
-### 📹 YouTube [canal de Youtube](https://youtube.com/nomackleo?sub_confirmation=1)
+### 📹 [Canal de Youtube](https://youtube.com/nomackleo?sub_confirmation=1)
 
 <a href='https://youtu.be/jS9c1NfDQZQ&t=96s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jS9c1NfDQZQ&t=96s/mqdefault.jpg' alt='¡Frame Simulator!' />
 </a>
+
 <a href='https://youtu.be/DhRqZmXbo6Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DhRqZmXbo6Y/mqdefault.jpg' alt='Making of Triceratopo' />
 </a>
+
 <a href='https://youtu.be/qtc8V9973uA&t=50s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qtc8V9973uA&t=50s/mqdefault.jpg' alt='Making of Prometheus' />
 </a>
