@@ -7,8 +7,8 @@
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
- <a href="https://www.linkedin.com/in/leonel-antonio-salcedo-/" target="_blank" style="margin:0 10px">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomack3d" height="28px" width="28px" />
+ <a href="https://www.linkedin.com/in/leonel-antonio-salcedo-/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomack3d" height="28px" width="28px" style="margin:0 10px"/>
   </a>
    <a href="https://youtube.com/nomackleo" target="_blank" style='margin-right:8px'>
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nomack3d" height="28px" width="28px" />
