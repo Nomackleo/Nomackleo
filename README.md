@@ -7,14 +7,17 @@
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
+ <a href="https://www.linkedin.com/in/leonel-antonio-salcedo-/" target="_blank" style='margin-right:4px'>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomack3d" height="28px" width="28px" />
+  </a>
    <a href="https://youtube.com/nomackleo" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nomack3d" height="28px" width="28px" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nomack3d" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/nomack_3d" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nomack3d" height="28px" width="28px" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomack3d" height="28px" width="28px" />
   </a>
   <a href="https://twitter.com/Nomackleo" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nomack3d" height="28px" width="28px" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomack3d" height="28px" width="28px" />
   </a>
 </p>
 
@@ -27,19 +30,11 @@
  - BabylonJs. 
  - NextJs.
 
-## 💬 Ask me about 
- - Angular. 
- - ThreeJs. 
- - Unreal.
-
-- 📫 How to reach me **nomackleo@gmail.com**
+## 📫 How to reach me 
+ - nomackleo@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nomackleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomackleo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leonel-antonio-salcedo-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonel-antonio-salcedo-/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nomack_3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nomack_3d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxuihjpw0xtzh-jyzc93l6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxuihjpw0xtzh-jyzc93l6w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
