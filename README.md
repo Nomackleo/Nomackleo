@@ -1,5 +1,5 @@
 <p align="center" width="300">
- <img align="center" src="https://user-images.githubusercontent.com/23043860/215877297-d962bafb-cef5-42c7-9c5f-afda8135a3ae.png" />
+ <img align="center" src="https://user-images.githubusercontent.com/23043860/215882124-687ddb3b-7fa9-47b0-a9c1-fa2c6d4b8fd0.png" />
   <h1 align="center">Hi 👋, I'm Leonel Salcedo</h1>
 <h3 align="center">I am <strong>web developer and 3d artist</strong> from Colombia.</h3>
 </p>
