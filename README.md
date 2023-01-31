@@ -1,7 +1,9 @@
-### Hi there 👋
+<p align="center" width="300">
+  <h3 align="center">Hi there 👋.</h3>
+</p>
 
 <h1 align="center">Hi 👋, I'm Leonel Salcedo</h1>
-<h3 align="center">A passionate frontend developer from Colombia.</h3>
+<h3 align="center">I am <strong>web developer and 3d artist</strong> from Colombia.</h3>
 
 - 🔭 I’m currently working on **Ciudad Autómata**
 
