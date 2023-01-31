@@ -1,7 +1,7 @@
 <p align="center" width="300">
  <img align="center" src="https://user-images.githubusercontent.com/23043860/215883059-c28a4f73-6ea9-49d6-9936-dd67255f6c66.png" />
   <h1 align="center">Hi 👋, I'm Leonel Salcedo</h1>
-<h3 align="center">I am <strong>web developer and 3d artist</strong> from Colombia.</h3>
+  <h3 align="center">I am <strong>web developer and 3d artist</strong> from Colombia.</h3>
 </p>
 
 
