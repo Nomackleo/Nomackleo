@@ -7,22 +7,30 @@
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-   <a href="https://youtube.com/nomackleo" target="blank" style='margin-right:4px'>
+   <a href="https://youtube.com/nomackleo" target="_blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nomack3d" height="28px" width="28px" />
   </a>
-  <a href="https://instagram.com/nomack_3d" target="blank">
+  <a href="https://instagram.com/nomack_3d" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nomack3d" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/Nomackleo" target="blank">
+  <a href="https://twitter.com/Nomackleo" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nomack3d" height="28px" width="28px" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **Ciudad Autómata**
+## 🔭 I’m currently working on 
+ - Ciudad Autómata Landing Page in 3D with WebGl
 
-- 🌱 I’m currently learning **React, A-Frame, BabylonJs, NextJs**
+## 🌱 I’m currently learning 
+ - React. 
+ - A-Frame. 
+ - BabylonJs. 
+ - NextJs.
 
-- 💬 Ask me about **Angular, ThreeJs, Unreal**
+## 💬 Ask me about 
+ - Angular. 
+ - ThreeJs. 
+ - Unreal.
 
 - 📫 How to reach me **nomackleo@gmail.com**
 
