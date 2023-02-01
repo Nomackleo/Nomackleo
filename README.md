@@ -3,9 +3,9 @@
 </p>
 
  <h1 align="center">Hi 👋, I'm Leonel Salcedo</h1>
- <h3 align="center">I am <strong>web developer and 3d artist</strong> from Colombia.</h3>
+ <h3 align="center">I am <strong>Web Developer and 3D Artist</strong> from Colombia.</h3>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">¡Revisa mi contenido 👇!</p>
 <p align="center">
  <a href="https://www.linkedin.com/in/leonel-antonio-salcedo-/" target="_blank" style="margin-right:10px">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomack3d" height="28px" width="28px" />
@@ -84,6 +84,4 @@
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="28" height="28"/> </a> 
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886628cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="28" height="28"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="28" height="28"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomackleo&show_icons=true&locale=en&layout=compact" alt="nomackleo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomackleo&show_icons=true&locale=en" alt="nomackleo" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomackleo&langs_count=8)](https://github.com/nomackleo/github-readme-stats)
