@@ -84,4 +84,6 @@
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="28" height="28"/> </a> 
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886628cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="28" height="28"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="28" height="28"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomackleo&langs_count=8)](https://github.com/nomackleo/github-readme-stats)
+## 📈 GitHub Stats 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomackleo&langs_count=8&show_icons=true&theme=transparent)](https://github.com/nomackleo/github-readme-stats)
