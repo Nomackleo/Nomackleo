@@ -34,6 +34,7 @@
 - React.
 - A-Frame.
 - BabylonJs.
+- WebXR
 - NextJs.
 
 ## 📫 How to reach me
