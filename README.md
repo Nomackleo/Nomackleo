@@ -81,13 +81,13 @@
   <tr>
     <td><a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/autodesk-maya-logo-A8D58F0B59-seeklogo.com.jpg" alt="maya" width="28" height="28"/></a></td>
     <td width="24"></td>
-    <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="zbrush" width="28" height="28"/></a></td>
+    <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="28" height="28"/></a></td>
     <td width="24"></td>
-    <td><a href="https://pixologic.com/" target="_blank" rel="noreferrer"><img src="https://image.pngaaa.com/393/3850393-small.png" alt="blender" width="28" height="28"/></a></td>
+    <td><a href="https://pixologic.com/" target="_blank" rel="noreferrer"><img src="https://image.pngaaa.com/393/3850393-small.png" alt="zbrush" width="28" height="28"/></a></td>
     <td width="24"></td>
     <td><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://www.citypng.com/public/uploads/preview/unreal-engine-white-logo-png-11662377738plyxyz8g4p.png" alt="unreal" width="28" height="28"/></a></td>
     <td width="24"></td>
-    <td><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg" alt="substance painter" width="28" height="28"/></a></td>
+    <td><a href="https://www.adobe.com/products/substance3d/apps/painter.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg" alt="substance painter" width="28" height="28"/></a></td>
     <td width="24"></td>
     <td><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="28" height="28"/></a></td>
     <td width="24"></td>
